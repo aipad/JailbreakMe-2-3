@@ -1,3 +1,7 @@
+## JailbreakMe 2.0/3.0
+# Star
+# Saffron
+
 How to use:
 - git submodule init -u
 - ln -s /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk /var/sdk
